@@ -11,7 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine ("hello world KOKOS");
-            Console.ReadLine();
+            Console.ReadLine(); // ИС1-201 Кирилл Завьялов
         }
     }
 }
